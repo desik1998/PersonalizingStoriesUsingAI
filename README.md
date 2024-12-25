@@ -1,4 +1,4 @@
-# PersonalizingStoriesUsingAI
+# Personalizing Stories Using AI
 
 This project/experiment attempts to personalize a story for a user based on their likely preferences. For example, if there is an original story in an American or Russian setting, we can retain the message of the story and apply it to a different setting for example Indian or European. Sometimes, it might not be possible to adapt the original story to different cultural context. But as part of this project, we've taken stories which have universal human values across different cultural contexts such as American/Russian/Irish and applied them to an Indian setting. 
 
