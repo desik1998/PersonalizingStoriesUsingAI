@@ -2,6 +2,12 @@
 
 This project/experiment attempts to personalize a story for a user based on their likely preferences. For example, if there is an original story in an American or Russian setting, we can retain the message of the story and apply it to a different setting for example Indian or European. Sometimes, it might not be possible to adapt the original story to different cultural context. But as part of this project, we've taken stories which have universal human values across different cultural contexts such as American/Russian/Irish and applied them to an Indian setting. 
 
+Here are our personalized stories:
+1. Indian Adaptation of the story [Hearts and Hands](https://americanliterature.com/author/o-henry/short-story/hearts-and-hands/) by American author O'Henry
+2. Indian Adaptation of the story [Vanka](https://americanliterature.com/author/anton-chekhov/short-story/vanka/) by Russian author Anton Chekhov
+3. Indian Adaptation of the story [Selish Giant](https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant/) by Irish author Oscar Wilde
+4. Indian Adaptation of [Little Match Girl](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) by Swedish author Hans Christian Andresen 
+
 ### Benefits:
 1. Personalized story has more relatable characters, settings and situations. This helps readers connect deeper to the story
 2. We've showed our [personalized stories](https://github.com/desik1998/PersonalizingStoriesUsingAI/tree/main/PersonalizedStories) to multiple people and they've said that it's easier to read for the personalized story than the original story because of the familiarity of the names etc in the personalized story.
@@ -22,11 +28,6 @@ Identify all the aspects which can be personalized then as while you think, thin
 2. Now ask the model to generate the personalized story
 3. If the story is not good enough, just tell the model that it's not good enough and ask it to adapt more for the local culture. (Surprisingly, it does it without much prompt effort)
 
-Here are our personalized stories:
-1. Indian Adaptation of the story [Hearts and Hands](https://americanliterature.com/author/o-henry/short-story/hearts-and-hands/) by American author O'Henry
-2. Indian Adaptation of the story [Vanka](https://americanliterature.com/author/anton-chekhov/short-story/vanka/) by Russian author Anton Chekhov
-3. Indian Adaptation of the story [Selish Giant](https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant/) by Irish author Oscar Wilde
-4. Indian Adaptation of [Little Match Girl](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) by Swedish author Hans Christian Andresen 
 
 Here is the detailed conversations which we've had with o1 model for generating each of the personalized stories [[1](https://chatgpt.com/share/6762e3f7-0994-8011-853b-1b1553bc7f82), [2](https://chatgpt.com/share/676bd09b-12d4-8011-9102-da7defbff2b9), [3](https://chatgpt.com/share/6762e40a-21e8-8011-b32d-7865f5e53814), [4](https://chatgpt.com/share/676c0aca-04a0-8011-b81a-e6577126e1b9)]
 
