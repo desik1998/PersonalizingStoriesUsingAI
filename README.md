@@ -16,6 +16,8 @@ The characters/names/cities/festivals/climate/food/language-tone in the personal
 
 For example, here are the personalizations done as part of Vanka: The name of the protaganist is changed from Zhukov to Chotu, The festival setting is changed from Christmas to Diwali, The Food is changed from Bread to Roti and Sometimes within the story, conversations include Hindi words (written in English) to add emotional depth and authenticity. This is all done while preserving the core values of the original story such as child innocence, abuse, hope
 
+**While personalizing, there can be multiple ways to personalize the original story such as choosing names, cities, festivals etc. We prompt the o1 model to go through different possibilities of these and chooses the best one for us. Given its reasoning skills and ability to think for long time, it is able to do this well**
+
 ### Benefits:
 1. Personalized story has more relatable characters, settings and situations which helps readers relate and connect deeper to the story
 2. **Reduced cognitive load for readers:** We've showed our [personalized stories](https://github.com/desik1998/PersonalizingStoriesUsingAI/tree/main/PersonalizedStories) to multiple people and they've said that it's easier to read the personalized story than the original story because of the familiarity of the names/settings in the personalized story.
