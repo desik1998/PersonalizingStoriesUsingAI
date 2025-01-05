@@ -5,7 +5,7 @@ This project/experiment attempts to personalize a story for a user based on thei
 Here are our personalized stories (All of these stories are < 2000 words and can be read in <= 10 mins):
 1. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Hearts%20and%20Hands%20Adaptation.md) of the story [Hearts and Hands](https://americanliterature.com/author/o-henry/short-story/hearts-and-hands/) by American author O'Henry.
 2. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Vanka%20Story%20Adaptation.md) of the story [Vanka](https://americanliterature.com/author/anton-chekhov/short-story/vanka/) by Russian author Anton Chekhov.
-3. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Selfish%20Giant%20Adaptation.md) of the story [Seflish Giant](https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant/) by Irish author Oscar Wilde.
+3. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Selfish%20Giant%20Adaptation.md) of the story [Selfish Giant](https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant/) by Irish author Oscar Wilde.
 4. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/The%20Little%20Match%20Girl%20Adaptation.md) of [Little Match Girl](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) by Danish author Hans Christian Andresen.
 
 
