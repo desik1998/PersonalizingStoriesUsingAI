@@ -7,8 +7,7 @@ Here are our personalized stories (1st 4 stories are < 2000 words and can be rea
 2. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Vanka%20Story%20Adaptation.md) of the story [Vanka](https://americanliterature.com/author/anton-chekhov/short-story/vanka/) by Russian author Anton Chekhov.
 3. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Selfish%20Giant%20Adaptation.md) of the story [Selfish Giant](https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant/) by Irish author Oscar Wilde.
 4. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/The%20Little%20Match%20Girl%20Adaptation.md) of [Little Match Girl](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) by Danish author Hans Christian Andresen
-
-Animal Farm Read: https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Animal%20Farm%20AmericanEdition.md
+5. [Americanized Version of Animal Farm](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Animal%20Farm%20AmericanEdition.md)
 
 
 **What actually gets personalized?**
