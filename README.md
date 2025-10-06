@@ -2,11 +2,13 @@
 
 This project/experiment attempts to personalize a story for a user based on their cultural settings. For example, if there is an original story in an American or Russian setting, we retain the core message of the story and apply it to a different setting such as Indian or European. Although sometimes, it might not be possible to adapt the original story to different cultural contexts, as part of this project, we've taken stories which have universal human values across different cultural contexts such as American/Russian/Irish/Swedish and applied them to an Indian setting.
 
-Here are our personalized stories (All of these stories are < 2000 words and can be read in <= 10 mins):
+Here are our personalized stories (1st 4 stories are < 2000 words and can be read in <= 10 mins):
 1. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Hearts%20and%20Hands%20Adaptation.md) of the story [Hearts and Hands](https://americanliterature.com/author/o-henry/short-story/hearts-and-hands/) by American author O'Henry.
 2. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Vanka%20Story%20Adaptation.md) of the story [Vanka](https://americanliterature.com/author/anton-chekhov/short-story/vanka/) by Russian author Anton Chekhov.
 3. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Selfish%20Giant%20Adaptation.md) of the story [Selfish Giant](https://americanliterature.com/author/oscar-wilde/short-story/the-selfish-giant/) by Irish author Oscar Wilde.
-4. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/The%20Little%20Match%20Girl%20Adaptation.md) of [Little Match Girl](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) by Danish author Hans Christian Andresen.
+4. [Indian Adaptation](https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/The%20Little%20Match%20Girl%20Adaptation.md) of [Little Match Girl](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) by Danish author Hans Christian Andresen
+
+Animal Farm Read: https://github.com/desik1998/PersonalizingStoriesUsingAI/blob/main/PersonalizedStories/Animal%20Farm%20AmericanEdition.md
 
 
 **What actually gets personalized?**
